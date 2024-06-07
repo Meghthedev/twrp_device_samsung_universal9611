@@ -20,7 +20,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_m31.mk \
     $(LOCAL_DIR)/twrp_m31s.mk \
     $(LOCAL_DIR)/twrp_a51.mk \
-    $(LOCAL_DIR)/twrp_m30s.mk
+    $(LOCAL_DIR)/pb_m30s.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_gta4xl-eng \
@@ -28,4 +28,4 @@ COMMON_LUNCH_CHOICES := \
     twrp_m31-eng \
     twrp_m31s-eng \
     twrp_a51-eng \
-    twrp_m30s-eng    
+    pb_m30s-eng
